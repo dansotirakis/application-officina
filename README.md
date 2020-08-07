@@ -2,7 +2,7 @@
 ![React](https://lh3.googleusercontent.com/g7p10RSxdGTTzvezZMgGyfNIH2eh7JLQqHPTB-gsRehX26eD9JICKKNISWQFzMEwoBro3vt2u_w=w128-h128-e365)
 ![Node](https://ih1.redbubble.net/image.109336634.1604/flat,128x128,075,t-pad,128x128,f8f8f8.u1.jpg)
 ![gesture-handler](https://image.flaticon.com/icons/png/128/1636/1636814.png)
-### Oficina App 0.0.1
+### Oficina App 0.0.1 💬 Gifted Chat
 
 ##### Aplicativo foi construido para atender a prova de conceito do sistema de orçamentos.
 
@@ -45,6 +45,3 @@ react-native run android
 ou
 react-native run ios
 ```
-#### [React](https://reactjs.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request) 
-
-💬 Gifted Chat
